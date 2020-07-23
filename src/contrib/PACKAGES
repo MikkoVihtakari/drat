@@ -1,3 +1,12 @@
+Package: ggOceanMaps
+Version: 0.4.0
+Depends: R (>= 3.5.0), ggplot2, ggspatial
+Imports: sp, raster, rgdal, rgeos, methods, utils, sf, stars, smoothr, units, dplyr
+Suggests: ggOceanMapsData, cowplot, knitr, rmarkdown, scales
+License: GPL-3 | file LICENSE
+MD5sum: 35754d63ad11bfb9a059be7c95819c16
+NeedsCompilation: no
+
 Package: ggOceanMapsData
 Version: 1.0.0
 Depends: R (>= 3.5.0)

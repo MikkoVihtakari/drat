@@ -8,9 +8,9 @@ MD5sum: 2e2cde4e9004a7f21df85e940ab35f63
 NeedsCompilation: no
 
 Package: ggOceanMapsData
-Version: 1.0.1
+Version: 1.0.4
 Depends: R (>= 3.5.0)
 Imports: sp
 License: GPL-3 | file LICENSE
-MD5sum: 9011b98d2afb2aa217abb7420c59741f
+MD5sum: ec03f777f2a0f44bb77fe0b68cc6a530
 NeedsCompilation: no

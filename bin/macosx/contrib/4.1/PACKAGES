@@ -1,6 +1,6 @@
 Package: ggOceanMapsData
-Version: 1.0.4
+Version: 1.2
 Depends: R (>= 3.5.0)
 Imports: sp
 License: GPL-3 | file LICENSE
-MD5sum: 8fded769f08a53dec72f7d2a485ecdde
+MD5sum: 57796948a77b722a6da820acabe769c0
